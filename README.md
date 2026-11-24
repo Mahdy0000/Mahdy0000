@@ -3,18 +3,19 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0D0221,50:5A189A,100:FF2E97&text=AHMED%20MAHDY&fontSize=60&fontColor=00F0FF&fontAlignY=38&descColor=FFFFFF&desc=//%20hardware%20%2B%20software%20from%20the%20future&descSize=18&descAlignY=60&animation=fadeIn" alt="Ahmed Mahdy banner" width="100%"/>
 
 <a href="https://github.com/Mahdy0000">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=900&color=FF2E97&center=true&vCenter=true&width=700&lines=%3E+BOOTING+AHMED_MAHDY.EXE;%3E+MECHATRONICS+%2F+EMBEDDED+%2F+AI;%3E+OS+%26+TRANSFORMERS+FROM+SCRATCH;%3E+HARDWARE+LEAD%2C+AFRICA+RESQ+1ST+PLACE" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=2500&pause=1200&color=FF2E97&center=true&vCenter=true&width=420&height=40&lines=%3E+BOOTING+AHMED_MAHDY.EXE;%3E+MECHATRONICS+%2F+EMBEDDED+%2F+AI;%3E+OS+%26+TRANSFORMERS+FROM+SCRATCH;%3E+HARDWARE+LEAD%2C+AFRICA+RESQ+1ST+PLACE" alt="Typing animation"/>
 </a>
 
 </div>
 
 ```text
-+--------------------------------------------------------------+
-|  USER      : Ahmed Mahdy                                      |
-|  ROLE      : 4th-year Mechatronics @ Badr University (BUC)    |
-|  ALSO      : Technical Vice Chairman, IEEE BUC Student Branch |
-|  STATUS    : ONLINE  //  building things that blink and think |
-+--------------------------------------------------------------+
++-------------------------------------+
+| USER   : Ahmed Mahdy                |
+| ROLE   : Mechatronics, 4th year     |
+| SCHOOL : Badr University (BUC)      |
+| ALSO   : Tech Vice Chair, IEEE BUC  |
+| STATUS : ONLINE                     |
++-------------------------------------+
 ```
 
 I build things that mix hardware and software: embedded boards, operating systems, and machine learning written from scratch.
